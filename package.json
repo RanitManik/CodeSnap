@@ -35,7 +35,7 @@
         "@nextui-org/theme": "^2.4.5",
         "@nextui-org/tooltip": "^2.0.41",
         "@nextui-org/user": "^2.0.34",
-        "@prisma/client": "^5.20.0",
+        "@prisma/client": "^7.2.0",
         "@react-aria/ssr": "3.9.7",
         "@react-aria/visually-hidden": "3.8.18",
         "@tsparticles/react": "^3.0.0",
